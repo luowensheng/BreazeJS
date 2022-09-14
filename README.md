@@ -1,4 +1,4 @@
-# SwiftUI inspired JS FrameWork JSUI
+# SwiftUI inspired JS FrameWork BreazeJS
 
 ## GOAL: Create HTML, CSS only with Javascript/Typescript
 
